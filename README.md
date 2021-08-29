@@ -1,10 +1,21 @@
-- 👋 Hi, I’m @victorblaess
-- 👀 Currently working as mobile solutions developer mainly with Flutter
-- 🌱 I’m currently learning app security implementations with Flutter
-- 💞️ I’m looking to collaborate on DART and mobile related libraries
-- 📫 victorblaess@gmail.com
+# Hi there, I’m Victor
+- 👨🏽‍💻 Mobile App Developer
+- 👑 Focusing on backend related development
+- 🔥 Mainly using Dart, Flutter & Firebase
+- 🚀 Tech Enthusiast
 
-<!---
-victorblaess/victorblaess is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+![age](https://img.shields.io/badge/age-25-blue)
+![focus](https://img.shields.io/badge/focus-backend-brightgreen)
+![living](https://img.shields.io/badge/living-germany-3c9)
+![visitors](https://visitor-badge.herokuapp.com/badge?page_id=victorblaess.github.profile)
+
+<br />
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=victorblaess&count_private=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=victorblaess)]
+
+----
+
+Last Edited on: 29/08/2021
