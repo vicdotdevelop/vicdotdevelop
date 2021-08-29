@@ -10,7 +10,7 @@
 ![living](https://img.shields.io/badge/living-germany-3c9)
 ![visitors](https://visitor-badge.herokuapp.com/badge?page_id=victorblaess.github.profile)
 
-<br />
+----
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=victorblaess&count_private=true)
 
