@@ -1,4 +1,9 @@
 # Hi there, I’m Victor
+
+<p align="center">
+<img src="memoji.jpeg" alt="drawing" width="120"/>
+</p>
+
 - 👨🏽‍💻 Mobile App Developer
 - 👑 Focusing on backend related development
 - 🔥 Mainly using Dart, Flutter & Firebase
