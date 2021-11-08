@@ -9,6 +9,8 @@
 - 🔥 Mainly using Dart, Flutter & Firebase
 - 🚀 Tech Enthusiast
 
+![My Medium](https://medium.com/@victorblaess)
+
 
 ![age](https://img.shields.io/badge/age-25-blue)
 ![focus](https://img.shields.io/badge/focus-backend-brightgreen)
