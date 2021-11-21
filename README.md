@@ -14,12 +14,12 @@
 ![age](https://img.shields.io/badge/age-25-blue)
 ![focus](https://img.shields.io/badge/focus-backend-brightgreen)
 ![living](https://img.shields.io/badge/living-germany-3c9)
-![visitors](https://visitor-badge.herokuapp.com/badge?page_id=victorblaess.github.profile)
+![visitors](https://visitor-badge.herokuapp.com/badge?page_id=vicdotdevelop.github.profile)
 
 ----
 
 
-![Victor's GitHub stats](https://github-readme-stats.vercel.app/api?username=victorblaess&count_private=true&show_icons=true&theme=radical)
+![Victor's GitHub stats](https://github-readme-stats.vercel.app/api?username=vicdotdevelop&count_private=true&show_icons=true&theme=radical)
 
 
 ----
