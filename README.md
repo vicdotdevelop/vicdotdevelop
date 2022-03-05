@@ -1,4 +1,4 @@
-# Hi there, I’m Victor
+# Hi there, I’m Victor 🇺🇦 💙 💛 🕊
 
 <p align="center">
 <img src="memoji.jpeg" alt="drawing" width="120"/>
