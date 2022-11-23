@@ -14,7 +14,6 @@
 ![age](https://img.shields.io/badge/age-26-blue)
 ![focus](https://img.shields.io/badge/focus-backend-brightgreen)
 ![living](https://img.shields.io/badge/living-germany-3c9)
-![visitors](https://visitor-badge.herokuapp.com/badge?page_id=vicdotdevelop.github.profile)
 
 ----
 
