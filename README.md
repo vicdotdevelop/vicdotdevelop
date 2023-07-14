@@ -4,9 +4,9 @@
 <img src="memoji.jpeg" alt="drawing" width="120"/>
 </p>
 
-- 👨🏽‍💻 Mobile App Developer
+- 👨🏽‍💻 AI augmented coding - enabling development teams unleashing the full potential of AI.
 - 👑 Focusing on backend related development
-- 🔥 Mainly using Dart, Flutter & Firebase
+- 🔥 Mainly using TypeScript, Express & Firebase
 - 🚀 Tech Enthusiast
 
 [My Medium](https://medium.com/@victorblaess)
