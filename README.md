@@ -11,7 +11,7 @@
 
 [My Medium](https://medium.com/@victorblaess)
 
-![age](https://img.shields.io/badge/age-27-blue)
+![age](https://img.shields.io/badge/age-28-blue)
 ![focus](https://img.shields.io/badge/focus-backend-brightgreen)
 ![living](https://img.shields.io/badge/living-germany-3c9)
 
