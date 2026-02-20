@@ -162,7 +162,8 @@ Bridging the gap between AI and practical development
 <br/>
 
 <!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+- [GitHub Actions for Flutter iOS &amp; Android](https://medium.com/@victorblaess/github-actions-for-flutter-ios-android-2b8cfdbdf133?source=rss-ad7741ddeb86------2)
+- [Authenticate with Discord oAuth2-Provider using Flutter](https://medium.com/@victorblaess/authenticate-with-discord-oauth2-provider-using-flutter-ea9978e03827?source=rss-ad7741ddeb86------2)<!-- BLOG-POST-LIST:END -->
 
 </details>
 
