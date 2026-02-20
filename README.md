@@ -63,16 +63,6 @@ Bridging the gap between AI and practical development
 
 <p align="center">
   <img width="49%" src="https://streak-stats.demolab.com?user=vicdotdevelop&hide_border=true&background=0D1117&stroke=1ABC9C&ring=2980B9&fire=6C3483&currStreakNum=FFFFFF&sideNums=1ABC9C&currStreakLabel=1ABC9C&sideLabels=2980B9&dates=888888" alt="Streak Stats" />
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vicdotdevelop&theme=2077" alt="Stats" />
-</p>
-
-<p align="center">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vicdotdevelop&theme=2077" alt="Repos Per Language" />
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vicdotdevelop&theme=2077" alt="Most Commit Language" />
-</p>
-
-<p align="center">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=vicdotdevelop&theme=2077&utcOffset=1" alt="Productive Time" />
 </p>
 
 <br/>
