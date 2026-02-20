@@ -58,27 +58,27 @@ Bridging the gap between AI and practical development
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img width="100%" src="https://raw.githubusercontent.com/vicdotdevelop/vicdotdevelop/profile-summary-card-output/profile-summary-cards/output/2077/0-profile-details.svg" alt="Profile Details" />
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vicdotdevelop&theme=2077" alt="Profile Details" />
 </p>
 
 <p align="center">
   <img width="49%" src="https://streak-stats.demolab.com?user=vicdotdevelop&hide_border=true&background=0D1117&stroke=1ABC9C&ring=2980B9&fire=6C3483&currStreakNum=FFFFFF&sideNums=1ABC9C&currStreakLabel=1ABC9C&sideLabels=2980B9&dates=888888" alt="Streak Stats" />
-  <img width="49%" src="https://raw.githubusercontent.com/vicdotdevelop/vicdotdevelop/profile-summary-card-output/profile-summary-cards/output/2077/3-stats.svg" alt="Stats" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vicdotdevelop&theme=2077" alt="Stats" />
 </p>
 
 <p align="center">
-  <img width="49%" src="https://raw.githubusercontent.com/vicdotdevelop/vicdotdevelop/profile-summary-card-output/profile-summary-cards/output/2077/1-repos-per-language.svg" alt="Repos Per Language" />
-  <img width="49%" src="https://raw.githubusercontent.com/vicdotdevelop/vicdotdevelop/profile-summary-card-output/profile-summary-cards/output/2077/2-most-commit-language.svg" alt="Most Commit Language" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vicdotdevelop&theme=2077" alt="Repos Per Language" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vicdotdevelop&theme=2077" alt="Most Commit Language" />
 </p>
 
 <p align="center">
-  <img width="49%" src="https://raw.githubusercontent.com/vicdotdevelop/vicdotdevelop/profile-summary-card-output/profile-summary-cards/output/2077/4-productive-time.svg" alt="Productive Time" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=vicdotdevelop&theme=2077&utcOffset=1" alt="Productive Time" />
 </p>
 
 <br/>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=vicdotdevelop&theme=darkhub&no-frame=true&no-bg=true&margin-w=10&row=1&column=7" alt="Trophies" />
+  <img src="https://github-trophies.vercel.app/?username=vicdotdevelop&theme=darkhub&no-frame=true&no-bg=true&margin-w=10&row=1&column=7" alt="Trophies" />
 </p>
 
 <br/>
@@ -95,16 +95,6 @@ Bridging the gap between AI and practical development
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vicdotdevelop/vicdotdevelop/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vicdotdevelop/vicdotdevelop/output/github-snake.svg" />
   <img alt="Snake eating contributions" src="https://raw.githubusercontent.com/vicdotdevelop/vicdotdevelop/output/github-snake-dark.svg" width="100%" />
-</picture>
-
----
-
-## 🏔️ 3D Contribution Map
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vicdotdevelop/vicdotdevelop/3d-contrib/profile-night-rainbow.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vicdotdevelop/vicdotdevelop/3d-contrib/profile-green-animate.svg" />
-  <img alt="3D Contribution Graph" src="https://raw.githubusercontent.com/vicdotdevelop/vicdotdevelop/3d-contrib/profile-night-rainbow.svg" width="100%" />
 </picture>
 
 ---
@@ -158,11 +148,14 @@ Bridging the gap between AI and practical development
 </details>
 
 <details>
-<summary><b>📝 Latest Blog Posts — click to expand</b></summary>
+<summary><b>📝 Blog — click to expand</b></summary>
 <br/>
 
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+Check out my latest thoughts on AI-augmented development and backend architecture:
+
+<a href="https://medium.com/@victorblaess">
+  <img src="https://img.shields.io/badge/Read_on_Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
+</a>
 
 </details>
 
