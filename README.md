@@ -1,51 +1,62 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6C3483,50:2980B9,100:1ABC9C&height=220&section=header&text=Victor%20Blaess&fontColor=ffffff&fontSize=50&fontAlignY=35&desc=AI-Augmented%20Developer%20%7C%20Backend%20Focus&descSize=16&descAlignY=55&animation=twinkling"/>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2600&pause=900&color=1ABC9C&center=true&vCenter=true&repeat=true&width=800&lines=AI+augmented+coding+for+real+teams;Backend+builder+with+TypeScript+and+Firebase;Shipping+faster+with+AI+workflows" alt="Typing SVG" />
+</p>
+
+# Hi there, I’m Victor!
+
+<p align="center">
+  <img src="memoji.jpeg" alt="drawing" width="120"/>
+</p>
+
+- 👨🏽‍💻 AI augmented coding - enabling development teams unleashing the full potential of AI.
+- 👑 Focusing on backend related development
+- 🔥 Mainly using TypeScript, Express & Firebase
+- 🚀 Tech Enthusiast
+
+[My Medium](https://medium.com/@victorblaess)
+
+![age](https://img.shields.io/badge/age-29-blue)
+![focus](https://img.shields.io/badge/focus-backend-brightgreen)
+![living](https://img.shields.io/badge/living-germany-3c9)
 
 ---
 
-## <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="30"> Tech Arsenal
+## Tech Stack
 
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,js,nodejs,express,firebase,gcp,vue,nuxt,python,docker&theme=dark" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,bash,redis,postgres,figma,vercel,cloudflare&theme=dark" />
-  </a>
-</p>
-
----
-
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> GitHub Stats
-
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=vicdotdevelop&count_private=true&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=1ABC9C&icon_color=1ABC9C&text_color=c9d1d9&ring_color=1ABC9C&rank_icon=github" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=vicdotdevelop&theme=tokyonight&hide_border=true&background=0D1117&stroke=1ABC9C&ring=1ABC9C&fire=FF6D00&currStreakLabel=1ABC9C" />
-</p>
-
-<p align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vicdotdevelop&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=1ABC9C&text_color=c9d1d9&langs_count=8" />
-</p>
-
----
-
-## <img src="https://media.giphy.com/media/3ohzdIuqJoo8QdKlnW/giphy.gif" width="30"> Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vicdotdevelop&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=1ABC9C&line=1ABC9C&point=FF6D00&area=true&area_color=1ABC9C" />
+  <img src="https://skillicons.dev/icons?i=ts,js,nodejs,express,firebase,gcp,docker,vue,nuxt,postgres,redis,github&theme=dark" />
 </p>
 
 ---
 
-## 🏆 Trophies
+## GitHub Stats
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=vicdotdevelop&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=10" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=vicdotdevelop&count_private=true&show_icons=true&theme=radical&hide_border=true" />
+  <img width="49%" src="https://streak-stats.demolab.com?user=vicdotdevelop&theme=radical&hide_border=true" />
+</p>
+
+<p align="center">
+  <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vicdotdevelop&layout=compact&theme=radical&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vicdotdevelop&theme=react-dark&hide_border=true&area=true" />
 </p>
 
 ---
 
-## 🐍 Watch the Snake Eat My Contributions
+## Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=vicdotdevelop&theme=radical&no-frame=true&no-bg=true&margin-w=8&column=7" />
+</p>
+
+---
+
+## Contribution Snake
 
 <p align="center">
   <picture>
@@ -57,12 +68,6 @@
 
 ---
 
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-</p>
+Last Edited on: 20/02/2026
 
-<p align="center">
-  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> <b>I love connecting with people — if you want to say hi, I'll be happy to chat!</b> <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40">
-</p>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1ABC9C,50:2980B9,100:6C3483&height=120&section=footer&animation=twinkling"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1ABC9C,50:2980B9,100:6C3483&height=110&section=footer"/>
