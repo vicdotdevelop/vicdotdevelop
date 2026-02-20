@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6C3483,50:2980B9,100:1ABC9C&height=200&section=header&text=Victor%20Blaess&fontColor=ffffff&fontSize=46&fontAlignY=35&desc=AI-Augmented%20Coding%20%7C%20Backend%20Focus&descSize=15&descAlignY=56&animation=twinkling"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6C3483,50:2980B9,100:1ABC9C&height=200&section=header&text=Victor&fontColor=ffffff&fontSize=46&fontAlignY=35&desc=AI-Augmented%20Coding%20%7C%20Backend%20Focus&descSize=15&descAlignY=56&animation=twinkling"/>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2600&pause=900&color=1ABC9C&center=true&vCenter=true&repeat=true&width=760&lines=AI+augmented+coding+for+real+teams;Backend+first+with+TypeScript+%2B+Firebase;Shipping+faster+with+smart+AI+workflows" alt="Typing SVG" />
