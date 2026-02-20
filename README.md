@@ -1,7 +1,7 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6C3483,50:2980B9,100:1ABC9C&height=220&section=header&text=Victor&fontColor=ffffff&fontSize=50&fontAlignY=35&desc=AI-Augmented%20Developer%20%7C%20Backend%20Focus&descSize=16&descAlignY=55&animation=twinkling"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6C3483,50:2980B9,100:1ABC9C&height=200&section=header&text=Victor%20Blaess&fontColor=ffffff&fontSize=46&fontAlignY=35&desc=AI-Augmented%20Coding%20%7C%20Backend%20Focus&descSize=15&descAlignY=56&animation=twinkling"/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2600&pause=900&color=1ABC9C&center=true&vCenter=true&repeat=true&width=800&lines=AI+augmented+coding+for+real+teams;Backend+builder+with+TypeScript+and+Firebase;Shipping+faster+with+AI+workflows" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2600&pause=900&color=1ABC9C&center=true&vCenter=true&repeat=true&width=760&lines=AI+augmented+coding+for+real+teams;Backend+first+with+TypeScript+%2B+Firebase;Shipping+faster+with+smart+AI+workflows" alt="Typing SVG" />
 </p>
 
 # Hi there, I’m Victor!
@@ -42,32 +42,12 @@
   <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vicdotdevelop&layout=compact&theme=radical&hide_border=true" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vicdotdevelop&theme=react-dark&hide_border=true&area=true" />
-</p>
-
 ---
 
-## Trophies
-
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=vicdotdevelop&theme=radical&no-frame=true&no-bg=true&margin-w=8&column=7" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 </p>
-
----
-
-## Contribution Snake
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vicdotdevelop/vicdotdevelop/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vicdotdevelop/vicdotdevelop/output/github-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/vicdotdevelop/vicdotdevelop/output/github-snake-dark.svg" />
-  </picture>
-</p>
-
----
 
 Last Edited on: 20/02/2026
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1ABC9C,50:2980B9,100:6C3483&height=110&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1ABC9C,50:2980B9,100:6C3483&height=100&section=footer"/>
