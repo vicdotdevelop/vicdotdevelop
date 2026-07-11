@@ -5,19 +5,10 @@ Backend developer based in Germany, working with **TypeScript, Node.js, and Goog
 ## What I work with
 
 - **Backend:** TypeScript, Node.js, Express
-- **Cloud & Infrastructure:** Google Cloud Platform, Firebase, Docker, GitHub Actions
-- **Databases:** PostgreSQL, Redis, Firestore
+- **Cloud & Infrastructure:** Google Cloud Platform, Firebase, GitHub Actions
+- **Databases:** PostgreSQL, Firestore
 - **Frontend:** Vue, Nuxt
-
-## Selected projects
-
-- [**science-gpt**](https://github.com/vicdotdevelop/science-gpt) — AI tool for reading and summarizing scientific papers from PDF, built on GPT-4
-- [**db_reader_langchain**](https://github.com/vicdotdevelop/db_reader_langchain) — Example project for querying databases with LangChain.js and TypeScript
-- [**heic-to-jpg-converter**](https://github.com/vicdotdevelop/heic-to-jpg-converter) — Python CLI for batch-converting HEIC images to JPG with EXIF preservation
-
-## Writing
-
-I write about AI-augmented development and backend architecture on [Medium](https://medium.com/@victorblaess).
+- **AI Dev Tools:** Claude Code, Cursor, GitHub Copilot, CodeRabbit
 
 ## Get in touch
 
