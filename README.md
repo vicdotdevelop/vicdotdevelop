@@ -1,6 +1,6 @@
 # Hi, I'm Victor 👋
 
-Backend developer based in Germany, working with **TypeScript, Node.js, and Google Cloud**. I focus on AI-augmented development — building practical workflows that help teams ship faster with AI, without sacrificing engineering quality.
+Backend developer based in Germany, working with **TypeScript, Node.js, and Google Cloud**. I focus on AI-augmented development - building practical workflows that help teams ship faster with AI, without sacrificing engineering quality.
 
 ## What I work with
 
